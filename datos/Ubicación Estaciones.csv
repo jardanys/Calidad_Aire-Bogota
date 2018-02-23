@@ -1,0 +1,11 @@
+Nombre de la Estación;Location;Región;Propietario;Propósito; Longitude ; Latitude ;Elevacion de la Estación;Fecha de creación;Medio Ambiente;Notas
+Kennedy;Cr 86 No 40-55 Sur;WEST;SDA;AIR QUALITY;-74.161350   ; 4.6249000   ;2553;19/02/2008;2992320;La estación se encuentra ubicada dentro de las instalaciones del Parque Cayetano Cañizares
+Carvajal - Sevillana;Auto Sur No 61-40;WEST;SDA;AIR QUALITY;-74.148550   ; 4.5958000   ;2557;21/02/2008;;La estacion esta ubicada en una zona industrial en un entorno de fuentes puntuales de contaminantes primarios y se encuentra en la periferia de la Autopista Sur. Se encuentra a 4 m del suelo. Registra el sector sur, su escala de medicion es vecindario
+Puente Aranda;Cr 65 No 10-95;WEST;SDA;AIR QUALITY;-74.117570   ; 4.6318700   ;2555;23/02/2008;;La estacion esta a 15 m del suelo, ubicada en una zona industrial, cercana a una via principal (Avenidas de Las Americas). Registra el sector centroccidente y sur, su escala de medicion es vecindario
+Tunal;Carrera 24 N° 49-86 sur;SOUTH;SDA;AIR QUALITY;-74.130930   ; 4.5761900   ;2562;20/03/2008;;La estacion esta ubicada dentro de las instalaciones Inem Santiago Perez, se encuentra a nivel del suelo, presenta vegetacion arborea que no afecta su registro. Registra el sector suroriente.
+San Cristobal;;SOUTH;SDA;AIR QUALITY;-74.086003   ; 4.5725581   ;2688;;;
+Centro de Alto Rendimiento;Cl 63 No 47-06;CENTRAL;SDA;AIR QUALITY;-74.084000   ; 4.6583700   ;2548;26/02/2008;2992320;La estación se encuentra ubicada dentro de las instalaciones del Centro de Alto Rendimiento COLDEPORTES.
+Las Ferias;;CENTRAL;SDA;AIR QUALITY;-74.084672   ; 4.6907053   ;2552;;;
+Usaquen;;NORTH;SDA;AIR QUALITY;-74.032605   ; 4.7103553   ;2570;;;
+Guaymaral;Auto Norte KM 13;NORTH;SDA;AIR QUALITY;-74.044170   ; 4.7837400   ;2557;24/02/2008;2992320;La estacion esta a nivel del suelo, dentro de las enstalaciones de la Escuela de ingeniería Julio Garavito.
+Suba;Ave Corpas Km 13 / KR 111 157-45;NORTH;SDA;AIR QUALITY;-74.093430   ; 4.7625100   ;2553;05/05/2008;;La estación se encuentra ubicada en la Carrera 111 # 159 A-61. Registra el sector noroccidental su escala de medicion es vecindario. Franqueada por el Cerro de la Conejera
